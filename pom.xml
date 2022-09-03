@@ -14,6 +14,13 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.5</version>
+    <scope>test</scope>
+</dependency>
+
   </dependencies>
 <properties>
 <sonar.login>144a900e42d49af52c109a20fea7acbf50364072</sonar.login>
